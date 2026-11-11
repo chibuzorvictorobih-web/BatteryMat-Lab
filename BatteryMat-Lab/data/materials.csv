@@ -1,0 +1,7 @@
+id,name,role,formula,molar_mass_g_mol,electrons_per_formula,default_reversible_capacity_mah_g,potential_v_vs_li,structure,description,source_url
+lfp,Lithium iron phosphate (LFP),positive,LiFePO4,157.757,1,155,3.45,Olivine,Flat-voltage phosphate cathode with relatively low-cost iron chemistry.,https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/materials-science-and-engineering/batteries-supercapacitors-and-fuel-cells/electrode-materials-for-lithium-ion-batteries
+lco,Lithium cobalt oxide (LCO),positive,LiCoO2,97.873,1,150,3.90,Layered oxide,Layered cathode with limited reversible capacity within conventional voltage windows.,https://pmc.ncbi.nlm.nih.gov/articles/PMC13378681/
+lmo,Lithium manganese oxide (LMO),positive,LiMn2O4,180.812,1,115,4.00,Spinel,Spinel oxide cathode; default capacity is a representative illustrative input.,https://onlinelibrary.wiley.com/doi/10.1002/elt2.33
+nmc111,Lithium nickel manganese cobalt oxide (NMC111),positive,LiNi1/3Mn1/3Co1/3O2,96.462,1,165,3.80,Layered oxide,Equimolar Ni-Mn-Co layered cathode; operating properties depend on voltage window.,https://onlinelibrary.wiley.com/doi/10.1007/s12598-022-02070-6
+graphite,Graphite,negative,C6,72.066,1,340,0.10,Graphitic carbon,Capacity calculated on the mass of unlithiated C6 graphite host.,https://pubs.acs.org/doi/10.1021/acscentsci.7b00288
+lto,Lithium titanate (LTO),negative,Li4Ti5O12,459.083,3,160,1.55,Spinel,Three lithium ions insert per starting LTO formula unit.,https://pubs.rsc.org/en/content/articlehtml/2012/ee/c2ee03410g
