@@ -130,6 +130,8 @@ The scientific reference links in the dataset and [Methodology](docs/METHODOLOGY
 - [Navigating the minefield of battery literature — *Communications Materials*](https://www.nature.com/articles/s43246-022-00251-5)
 - [Differential voltage analysis for battery manufacturing process control — *Frontiers in Energy Research*](https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2023.1087269/full)
 - [An Outlook on Lithium Ion Battery Technology — *ACS Central Science*](https://pubs.acs.org/doi/10.1021/acscentsci.7b00288)
+- [Spinel LiMn₂O₄ Cathode Materials in Wide Voltage Window — *Crystals*](https://www.mdpi.com/2073-4352/12/3/317)
+- [The role of metal substitutions in the development of Li batteries, part I: cathodes — *Materials Advances*](https://doi.org/10.1039/D1MA00081K)
 
 ## License
 
